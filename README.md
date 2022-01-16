@@ -8,4 +8,4 @@ The only way to save the souls of the damned is to kill all six of Aeternus's di
 
 Developed by: **ForgottenDogYT** (RealDogGuy), **LOLYDERP**, and **SpoopyPotato**
 
-###### Made with *Unity*
+###### Made with Unity
