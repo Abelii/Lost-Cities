@@ -1,5 +1,5 @@
 # Lost-Cities
-A repository for the game Lost Cities (made with unity). 
+Made with Unity (2D)
 
 In this game you play as Rei. Rei is the last person across 6 existing dimensions, Rei has to save the souls of every person who has been absorbed by the ancient god of death “aeternus” who was named and is worshiped by the prisoners of mortality. 
 
