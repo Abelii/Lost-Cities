@@ -7,4 +7,5 @@ This cult believes that after death they are judged by radian, if they are deeme
 The only way to save the souls of the damned is to kill all six of radian's disciples to collect all 6 forbidden artifacts to assemble the gate of death to then kill radian and get his heart. You must then place his heart in the shrine that you see at the start to get everyone's souls back.
 
 Made with Unity (2D)
-Developed by: **ForgottenDogYT** (RealDogGuy), and **LOLYDERP**
+
+Developed by: **ForgottenDogYT** (RealDogGuy), **LOLYDERP**, and **SpoopyPotato**
