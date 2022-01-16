@@ -1,7 +1,7 @@
-# Lost-Cities
+# Lost Cities
 Made with Unity (2D)
 
-In this game you play as Rei. Rei is the last person across 6 existing dimensions, Rei has to save the souls of every person who has been absorbed by the ancient god of death “aeternus” who was named and is worshiped by the prisoners of mortality. 
+In this game you play as **Rei**. Rei is the last person across 6 existing dimensions, Rei has to save the souls of every person who has been absorbed by the ancient god of death “aeternus” who was named and is worshiped by the prisoners of mortality. 
 
 This cult believes that after death they are judged by radian, if they are deemed worthy to be aeternus’s disciple on the day of reckoning when all souls will be absorbed. 
 
