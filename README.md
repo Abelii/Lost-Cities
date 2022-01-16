@@ -1,4 +1,4 @@
-<span style="font-family:Roboto"># **Lost Cities**
+# **Lost Cities**
 
 In this game you play as **Rei**. Rei is the last person across 6 existing dimensions, Rei has to save the souls of every person who has been absorbed by the ancient god of death **Aeternus** who was named and is worshiped by the prisoners of mortality. 
 
@@ -8,4 +8,4 @@ The only way to save the souls of the damned is to kill all six of Aeternus's di
 
 Developed by: **ForgottenDogYT** (RealDogGuy), **LOLYDERP**, and **SpoopyPotato**
 
-###### Made with Unity</span>
+###### Made with Unity
